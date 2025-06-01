@@ -7,8 +7,7 @@
        </a>
     </p>
 
-Hello there! I'm Chris (AKA Reflex), i was born in 2005 and i'm currently studying computers' science!
-Here is my <a href="https://dag.killyourself.lol"> website</a> :)
+<div align='center'>Hello there! I'm Chris, i was born in 2005 and i'm currently studying computers' science.</div>
 
 <br>
 

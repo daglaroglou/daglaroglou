@@ -27,7 +27,7 @@ class daglaroglou:
     self.username = "daglaroglou";
     self.location = "Thessaloniki, Greece";
     self.twitter = "@_daglaroglou_";
-    self.web = "https://dag.killyourself.lol";
+    self.web = "https://dag.is-a.dev";
     self.discord = "daglaroglou";
   
   def __str__(self):

@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 <!--
 <div align="center">
-  <a href="[https://r3fl3x.tk](https://dag.killyourself.lol)">
+  <a href="[https://r3fl3x.tk](https://dag.is-a.dev)">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>

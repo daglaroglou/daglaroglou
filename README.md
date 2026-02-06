@@ -98,7 +98,7 @@ born       : 27/05/2005
 </div>
 
 ### `$ fetch --stats`
-
+<div align="center">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2035%20mins-blue?style=flat)
 
@@ -172,7 +172,7 @@ C                        2 repos             ██░░░░░░░░░�
 
  Last Updated on 06/02/2026 19:16:43 UTC
 <!--END_SECTION:waka-->
-
+</div>
 <br>
 
 ### `$ contrib --graph`

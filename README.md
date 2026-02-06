@@ -16,12 +16,6 @@
 <a href="https://t.me/daglaroglou"><img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white" alt="instagram"/></a>&nbsp;
 <a href="https://dag.is-a.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="website"/></a>
 
-<br><br>
-
-<!-- DISCORD STATUS -->
-<a href="https://discord.com/users/852825042630475827">
-  <img src="https://lanyard.cnrad.dev/api/852825042630475827?theme=dark&bg=000000&borderRadius=4px&animated=true&hideDiscrim=true" alt="discord status"/>
-</a>
 
 </div>
 
@@ -100,6 +94,8 @@ born       : 27/05/2005
 <img src="https://custom-icon-badges.demolab.com/badge/Windows-000000?logo=windows10&logoColor=white" alt="Windows"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Android-000000?logo=android&logoColor=white" alt="Android"/>
 <img src="https://custom-icon-badges.demolab.com/badge/iOS-000000?logo=apple&logoColor=white" alt="iOS"/>
+
+</div>
 
 ### `$ fetch --stats`
 
@@ -183,9 +179,9 @@ C                        2 repos             ██░░░░░░░░░�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/daglaroglou"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/000000/daglaroglou"/>
-    <img src="https://ghchart.rshah.org/ffffff/daglaroglou" width="90%" alt="contribution graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daglaroglou&bg_color=000000&color=ffffff&line=ffffff&point=666666&area=true&area_color=ffffff&hide_border=true&custom_title="/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daglaroglou&bg_color=ffffff&color=000000&line=000000&point=999999&area=true&area_color=000000&hide_border=true&custom_title="/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daglaroglou&bg_color=000000&color=ffffff&line=ffffff&point=666666&area=true&area_color=ffffff&hide_border=true&custom_title=" width="95%" alt="contribution graph"/>
   </picture>
 </div>
 

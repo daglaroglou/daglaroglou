@@ -3,9 +3,12 @@
 <!-- HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%3E+daglaroglou_" alt="header"/>
 
-<br><br>
-
-`christos daglaroglou` **·** `cs student` **·** `thessaloniki, gr`
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:000000,100:222222&text=%20&fontColor=FFFFFF&animation=fadeIn&reversal=true&section=footer"
+    alt="waving separator"
+  />
+</div>
 
 <br>
 
